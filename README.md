@@ -1,1 +1,1 @@
-a simple blog application.
+
